@@ -27,5 +27,5 @@ A API contém os seguintes endpoints:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/Rhodoryus/sua-api-de-noticias.git
+git clone https://github.com/seu-usuario/sua-api-de-noticias.git
 cd sua-api-de-noticias
